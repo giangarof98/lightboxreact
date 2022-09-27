@@ -1,0 +1,20 @@
+{
+    "data":[
+        {
+            "text":"First Image",
+            "link": "https://images.pexels.com/photos/1114690/pexels-photo-1114690.jpeg?cs=srgb&dl=pexels-philippe-donn-1114690.jpg&fm=jpg"
+        },
+        {
+            "text":"Second Image",
+            "link": "https://images.pexels.com/photos/3293148/pexels-photo-3293148.jpeg?cs=srgb&dl=pexels-asad-photo-maldives-3293148.jpg&fm=jpg"
+        },
+        {
+            "text":"Third Image",
+            "link": "https://images.pexels.com/photos/2739013/pexels-photo-2739013.jpeg?cs=srgb&dl=pexels-mads-thomsen-2739013.jpg&fm=jpg"
+        },
+        {
+            "text":"Forth Image",
+            "link": "https://images.pexels.com/photos/2559941/pexels-photo-2559941.jpeg?cs=srgb&dl=pexels-roberto-nickson-2559941.jpg&fm=jpg"
+        }
+    ]
+}
